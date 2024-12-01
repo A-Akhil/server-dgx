@@ -308,7 +308,11 @@
 2024-12-01 16:44:15: stop.txt contains 'No'. Services can continue running.
 2024-12-01 16:44:15: Attempting to download stop.txt...
 2024-12-01 16:44:15: Deleted existing stop.txt to ensure a fresh download.
-2024-12-01 16:44:15: Successfully downloaded stop.txt using wget.
+2024-12-01 16:44:15: Successfully downloaded stop.txt using wget.stop_services() {
+    log_message "Stopping services..."
+    pkill -f "code-server"
+    pkill -f "cloudflared"
+}
 2024-12-01 16:44:15: Raw stop.txt content: 'No'
 2024-12-01 16:44:15: stop.txt contains 'No'. Services can continue running.
 2024-12-01 16:45:09: Attempting to download stop.txt...
@@ -324,3 +328,34 @@
 2024-12-01 16:45:09: Pulled latest changes from remote repository
 2024-12-01 16:45:09: Deleted existing link.txt to save new link.
 2024-12-01 16:45:09: Captured Cloudflared link: https://scenario-accessed-associates-synthesis.trycloudflare.com
+2024-12-01 16:45:09: Staged all changes
+2024-12-01 16:45:11: Pushed changes to GitHub
+2024-12-01 16:45:11: Monitoring services...
+2024-12-01 16:45:11: Attempting to download stop.txt...
+2024-12-01 16:45:11: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 16:45:11: Successfully downloaded stop.txt using wget.
+2024-12-01 16:45:11: Raw stop.txt content: 'No'
+2024-12-01 16:45:11: stop.txt contains 'No'. Services can continue running.
+2024-12-01 16:45:11: Attempting to download stop.txt...
+2024-12-01 16:45:11: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 16:45:11: Successfully downloaded stop.txt using wget.
+2024-12-01 16:45:11: Raw stop.txt content: 'No'
+2024-12-01 16:45:11: stop.txt contains 'No'. Services can continue running.
+2024-12-01 16:45:14: Attempting to download stop.txt...
+2024-12-01 16:45:14: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 16:45:14: Successfully downloaded stop.txt using wget.
+2024-12-01 16:45:14: Raw stop.txt content: 'No'
+2024-12-01 16:45:14: stop.txt contains 'No'. Services can continue running.
+2024-12-01 16:45:15: Attempting to download stop.txt...
+2024-12-01 16:45:15: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 16:45:15: Successfully downloaded stop.txt using wget.
+2024-12-01 16:45:15: Raw stop.txt content: 'No'
+2024-12-01 16:45:15: stop.txt contains 'No'. Services can continue running.
+2024-12-01 16:45:15: Attempting to download stop.txt...
+2024-12-01 16:45:15: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 16:45:16: Successfully downloaded stop.txt using wget.
+2024-12-01 16:45:16: Raw stop.txt content: 'No'
+2024-12-01 16:45:16: stop.txt contains 'No'. Services can continue running.
+2024-12-01 16:46:07: Pulled latest changes from remote repository
+2024-12-01 16:46:07: Deleted existing link.txt to save new link.
+2024-12-01 16:46:07: Captured Cloudflared link: https://counters-paragraph-governments-bomb.trycloudflare.com
