@@ -1,0 +1,4 @@
+main.sh
+start_cloudflared.sh
+start_code_server.sh
+cloudflared
