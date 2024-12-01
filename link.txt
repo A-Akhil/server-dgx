@@ -1,1 +1,1 @@
-Binary file cloudflared.log matches
+https://here-satisfy-sunrise-api.trycloudflare.com
