@@ -1,1 +1,2 @@
 
+[2024-12-01 13:42:01] Error in service management: 'ServiceManager' object has no attribute 'sync_configuration_files'
