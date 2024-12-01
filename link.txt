@@ -1,1 +1,1 @@
-https://returns-record-goal-areas.trycloudflare.com
+Binary file cloudflared.log matches
