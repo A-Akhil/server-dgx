@@ -3709,3 +3709,581 @@
 2024-12-01 18:11:43: Successfully downloaded stop.txt using wget.
 2024-12-01 18:11:43: Raw stop.txt content: 'No'
 2024-12-01 18:11:43: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:25:56: Attempting to download stop.txt...
+2024-12-01 18:25:56: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:25:56: Successfully downloaded stop.txt using wget.
+2024-12-01 18:25:56: Raw stop.txt content: 'No'
+2024-12-01 18:25:56: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:26:12: Attempting to download stop.txt...
+2024-12-01 18:26:12: Successfully downloaded stop.txt.
+2024-12-01 18:26:12: Raw stop.txt content: 'No'
+2024-12-01 18:26:12: Attempting to download stop.txt...
+2024-12-01 18:26:12: Successfully downloaded stop.txt.
+2024-12-01 18:26:12: Raw stop.txt content: 'No'
+2024-12-01 18:26:14: Attempting to download stop.txt...
+2024-12-01 18:26:14: Successfully downloaded stop.txt.
+2024-12-01 18:26:14: Raw stop.txt content: 'No'
+2024-12-01 18:26:17: Attempting to download stop.txt...
+2024-12-01 18:26:17: Successfully downloaded stop.txt.
+2024-12-01 18:26:17: Raw stop.txt content: 'No'
+2024-12-01 18:26:18: Attempting to download stop.txt...
+2024-12-01 18:26:18: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:26:18: Successfully downloaded stop.txt using wget.
+2024-12-01 18:26:18: Raw stop.txt content: 'No'
+2024-12-01 18:26:18: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:26:38: Attempting to download stop.txt...
+2024-12-01 18:26:38: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:26:38: Successfully downloaded stop.txt using wget.
+2024-12-01 18:26:38: Raw stop.txt content: 'No'
+2024-12-01 18:26:38: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:26:40: Attempting to download stop.txt...
+2024-12-01 18:26:40: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:26:40: Successfully downloaded stop.txt using wget.
+2024-12-01 18:26:40: Raw stop.txt content: 'No'
+2024-12-01 18:26:40: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:26:45: Attempting to download stop.txt...
+2024-12-01 18:26:45: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:26:45: Successfully downloaded stop.txt using wget.
+2024-12-01 18:26:45: Raw stop.txt content: 'No'
+2024-12-01 18:26:45: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:26:50: Attempting to download stop.txt...
+2024-12-01 18:26:50: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:26:50: Successfully downloaded stop.txt using wget.
+2024-12-01 18:26:50: Raw stop.txt content: 'No'
+2024-12-01 18:26:50: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:26:56: Attempting to download stop.txt...
+2024-12-01 18:26:56: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:26:56: Successfully downloaded stop.txt using wget.
+2024-12-01 18:26:56: Raw stop.txt content: 'No'
+2024-12-01 18:26:56: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:27:12: Attempting to download stop.txt...
+2024-12-01 18:27:12: Attempting to download stop.txt...
+2024-12-01 18:27:12: Successfully downloaded stop.txt.
+2024-12-01 18:27:12: Raw stop.txt content: 'No'
+2024-12-01 18:27:13: Successfully downloaded stop.txt.
+2024-12-01 18:27:13: Raw stop.txt content: 'No'
+2024-12-01 18:27:14: Attempting to download stop.txt...
+2024-12-01 18:27:14: Successfully downloaded stop.txt.
+2024-12-01 18:27:14: Raw stop.txt content: 'No'
+2024-12-01 18:27:17: Attempting to download stop.txt...
+2024-12-01 18:27:17: Successfully downloaded stop.txt.
+2024-12-01 18:27:17: Raw stop.txt content: 'No'
+2024-12-01 18:27:18: Attempting to download stop.txt...
+2024-12-01 18:27:18: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:27:18: Successfully downloaded stop.txt using wget.
+2024-12-01 18:27:18: Raw stop.txt content: 'No'
+2024-12-01 18:27:18: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:27:38: Attempting to download stop.txt...
+2024-12-01 18:27:38: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:27:38: Successfully downloaded stop.txt using wget.
+2024-12-01 18:27:38: Raw stop.txt content: 'No'
+2024-12-01 18:27:38: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:27:40: Attempting to download stop.txt...
+2024-12-01 18:27:40: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:27:40: Successfully downloaded stop.txt using wget.
+2024-12-01 18:27:40: Raw stop.txt content: 'No'
+2024-12-01 18:27:40: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:27:45: Attempting to download stop.txt...
+2024-12-01 18:27:45: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:27:45: Successfully downloaded stop.txt using wget.
+2024-12-01 18:27:45: Raw stop.txt content: 'No'
+2024-12-01 18:27:45: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:27:50: Attempting to download stop.txt...
+2024-12-01 18:27:50: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:27:50: Successfully downloaded stop.txt using wget.
+2024-12-01 18:27:50: Raw stop.txt content: 'No'
+2024-12-01 18:27:50: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:27:56: Attempting to download stop.txt...
+2024-12-01 18:27:56: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:27:56: Successfully downloaded stop.txt using wget.
+2024-12-01 18:27:56: Raw stop.txt content: 'No'
+2024-12-01 18:27:56: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:28:12: Attempting to download stop.txt...
+2024-12-01 18:28:12: Successfully downloaded stop.txt.
+2024-12-01 18:28:12: Raw stop.txt content: 'No'
+2024-12-01 18:28:13: Attempting to download stop.txt...
+2024-12-01 18:28:13: Successfully downloaded stop.txt.
+2024-12-01 18:28:13: Raw stop.txt content: 'No'
+2024-12-01 18:28:14: Attempting to download stop.txt...
+2024-12-01 18:28:14: Successfully downloaded stop.txt.
+2024-12-01 18:28:14: Raw stop.txt content: 'No'
+2024-12-01 18:28:17: Attempting to download stop.txt...
+2024-12-01 18:28:17: Successfully downloaded stop.txt.
+2024-12-01 18:28:17: Raw stop.txt content: 'No'
+2024-12-01 18:28:18: Attempting to download stop.txt...
+2024-12-01 18:28:18: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:28:18: Successfully downloaded stop.txt using wget.
+2024-12-01 18:28:18: Raw stop.txt content: 'No'
+2024-12-01 18:28:18: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:28:38: Attempting to download stop.txt...
+2024-12-01 18:28:38: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:28:38: Successfully downloaded stop.txt using wget.
+2024-12-01 18:28:38: Raw stop.txt content: 'No'
+2024-12-01 18:28:38: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:28:40: Attempting to download stop.txt...
+2024-12-01 18:28:40: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:28:41: Successfully downloaded stop.txt using wget.
+2024-12-01 18:28:41: Raw stop.txt content: 'No'
+2024-12-01 18:28:41: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:28:45: Attempting to download stop.txt...
+2024-12-01 18:28:45: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:28:46: Successfully downloaded stop.txt using wget.
+2024-12-01 18:28:46: Raw stop.txt content: 'No'
+2024-12-01 18:28:46: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:28:50: Attempting to download stop.txt...
+2024-12-01 18:28:50: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:28:50: Successfully downloaded stop.txt using wget.
+2024-12-01 18:28:50: Raw stop.txt content: 'No'
+2024-12-01 18:28:50: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:28:57: Attempting to download stop.txt...
+2024-12-01 18:28:57: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:28:57: Successfully downloaded stop.txt using wget.
+2024-12-01 18:28:57: Raw stop.txt content: 'No'
+2024-12-01 18:28:57: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:29:13: Attempting to download stop.txt...
+2024-12-01 18:29:13: Successfully downloaded stop.txt.
+2024-12-01 18:29:13: Raw stop.txt content: 'No'
+2024-12-01 18:29:13: Attempting to download stop.txt...
+2024-12-01 18:29:13: Successfully downloaded stop.txt.
+2024-12-01 18:29:13: Raw stop.txt content: 'No'
+2024-12-01 18:29:14: Attempting to download stop.txt...
+2024-12-01 18:29:14: Successfully downloaded stop.txt.
+2024-12-01 18:29:14: Raw stop.txt content: 'No'
+2024-12-01 18:29:17: Attempting to download stop.txt...
+2024-12-01 18:29:17: Successfully downloaded stop.txt.
+2024-12-01 18:29:17: Raw stop.txt content: 'No'
+2024-12-01 18:29:18: Attempting to download stop.txt...
+2024-12-01 18:29:18: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:29:18: Successfully downloaded stop.txt using wget.
+2024-12-01 18:29:18: Raw stop.txt content: 'No'
+2024-12-01 18:29:18: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:29:38: Attempting to download stop.txt...
+2024-12-01 18:29:38: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:29:39: Successfully downloaded stop.txt using wget.
+2024-12-01 18:29:39: Raw stop.txt content: 'No'
+2024-12-01 18:29:39: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:29:41: Attempting to download stop.txt...
+2024-12-01 18:29:41: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:29:41: Successfully downloaded stop.txt using wget.
+2024-12-01 18:29:41: Raw stop.txt content: 'No'
+2024-12-01 18:29:41: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:29:46: Attempting to download stop.txt...
+2024-12-01 18:29:46: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:29:46: Successfully downloaded stop.txt using wget.
+2024-12-01 18:29:46: Raw stop.txt content: 'No'
+2024-12-01 18:29:46: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:29:50: Attempting to download stop.txt...
+2024-12-01 18:29:50: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:29:50: Successfully downloaded stop.txt using wget.
+2024-12-01 18:29:50: Raw stop.txt content: 'No'
+2024-12-01 18:29:50: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:29:53: Starting service check process...
+2024-12-01 18:29:53: Attempting to download status.txt...
+2024-12-01 18:29:53: Successfully downloaded status.txt.
+2024-12-01 18:29:53: Raw status.txt content: 'No'
+2024-12-01 18:29:53: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:29:57: Attempting to download stop.txt...
+2024-12-01 18:29:57: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:29:57: Successfully downloaded stop.txt using wget.
+2024-12-01 18:29:57: Raw stop.txt content: 'No'
+2024-12-01 18:29:57: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:30:13: Attempting to download stop.txt...
+2024-12-01 18:30:13: Successfully downloaded stop.txt.
+2024-12-01 18:30:13: Raw stop.txt content: 'No'
+2024-12-01 18:30:13: Attempting to download stop.txt...
+2024-12-01 18:30:13: Successfully downloaded stop.txt.
+2024-12-01 18:30:13: Raw stop.txt content: 'No'
+2024-12-01 18:30:14: Attempting to download stop.txt...
+2024-12-01 18:30:14: Successfully downloaded stop.txt.
+2024-12-01 18:30:14: Raw stop.txt content: 'No'
+2024-12-01 18:30:17: Attempting to download stop.txt...
+2024-12-01 18:30:17: Successfully downloaded stop.txt.
+2024-12-01 18:30:17: Raw stop.txt content: 'No'
+2024-12-01 18:30:18: Attempting to download stop.txt...
+2024-12-01 18:30:18: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:30:18: Successfully downloaded stop.txt using wget.
+2024-12-01 18:30:18: Raw stop.txt content: 'No'
+2024-12-01 18:30:18: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:30:31: Starting service check process...
+2024-12-01 18:30:31: Attempting to download status.txt...
+2024-12-01 18:30:31: Successfully downloaded status.txt.
+2024-12-01 18:30:31: Raw status.txt content: 'No'
+2024-12-01 18:30:31: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:30:33: Starting service check process...
+2024-12-01 18:30:33: Attempting to download status.txt...
+2024-12-01 18:30:33: Successfully downloaded status.txt.
+2024-12-01 18:30:33: Raw status.txt content: 'No'
+2024-12-01 18:30:33: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:30:34: Starting service check process...
+2024-12-01 18:30:34: Attempting to download status.txt...
+2024-12-01 18:30:34: Successfully downloaded status.txt.
+2024-12-01 18:30:34: Raw status.txt content: 'No'
+2024-12-01 18:30:34: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:30:34: Starting service check process...
+2024-12-01 18:30:34: Attempting to download status.txt...
+2024-12-01 18:30:34: Successfully downloaded status.txt.
+2024-12-01 18:30:34: Raw status.txt content: 'No'
+2024-12-01 18:30:34: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:30:35: Starting service check process...
+2024-12-01 18:30:35: Attempting to download status.txt...
+2024-12-01 18:30:35: Successfully downloaded status.txt.
+2024-12-01 18:30:35: Raw status.txt content: 'No'
+2024-12-01 18:30:35: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:30:36: Starting service check process...
+2024-12-01 18:30:36: Attempting to download status.txt...
+2024-12-01 18:30:36: Successfully downloaded status.txt.
+2024-12-01 18:30:36: Raw status.txt content: 'No'
+2024-12-01 18:30:36: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:30:36: Starting service check process...
+2024-12-01 18:30:36: Attempting to download status.txt...
+2024-12-01 18:30:36: Successfully downloaded status.txt.
+2024-12-01 18:30:36: Raw status.txt content: 'No'
+2024-12-01 18:30:36: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:30:39: Attempting to download stop.txt...
+2024-12-01 18:30:39: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:30:41: Attempting to download stop.txt...
+2024-12-01 18:30:41: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:30:41: Successfully downloaded stop.txt using wget.
+2024-12-01 18:30:41: Raw stop.txt content: 'No'
+2024-12-01 18:30:41: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:30:42: Successfully downloaded stop.txt using wget.
+2024-12-01 18:30:42: Raw stop.txt content: 'No'
+2024-12-01 18:30:42: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:30:45: Starting service check process...
+2024-12-01 18:30:45: Attempting to download status.txt...
+2024-12-01 18:30:45: Successfully downloaded status.txt.
+2024-12-01 18:30:45: Raw status.txt content: 'No'
+2024-12-01 18:30:45: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:30:46: Attempting to download stop.txt...
+2024-12-01 18:30:46: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:30:46: Successfully downloaded stop.txt using wget.
+2024-12-01 18:30:46: Raw stop.txt content: 'No'
+2024-12-01 18:30:46: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:30:46: Starting service check process...
+2024-12-01 18:30:46: Attempting to download status.txt...
+2024-12-01 18:30:46: Successfully downloaded status.txt.
+2024-12-01 18:30:46: Raw status.txt content: 'No'
+2024-12-01 18:30:46: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:30:50: Attempting to download stop.txt...
+2024-12-01 18:30:50: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:30:50: Successfully downloaded stop.txt using wget.
+2024-12-01 18:30:50: Raw stop.txt content: 'No'
+2024-12-01 18:30:50: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:30:57: Attempting to download stop.txt...
+2024-12-01 18:30:57: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:30:57: Successfully downloaded stop.txt using wget.
+2024-12-01 18:30:57: Raw stop.txt content: 'No'
+2024-12-01 18:30:57: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:31:13: Attempting to download stop.txt...
+2024-12-01 18:31:13: Successfully downloaded stop.txt.
+2024-12-01 18:31:13: Raw stop.txt content: 'No'
+2024-12-01 18:31:13: Attempting to download stop.txt...
+2024-12-01 18:31:13: Successfully downloaded stop.txt.
+2024-12-01 18:31:13: Raw stop.txt content: 'No'
+2024-12-01 18:31:14: Attempting to download stop.txt...
+2024-12-01 18:31:14: Successfully downloaded stop.txt.
+2024-12-01 18:31:14: Raw stop.txt content: 'No'
+2024-12-01 18:31:17: Attempting to download stop.txt...
+2024-12-01 18:31:17: Successfully downloaded stop.txt.
+2024-12-01 18:31:17: Raw stop.txt content: 'No'
+2024-12-01 18:31:18: Attempting to download stop.txt...
+2024-12-01 18:31:18: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:31:19: Successfully downloaded stop.txt using wget.
+2024-12-01 18:31:19: Raw stop.txt content: 'No'
+2024-12-01 18:31:19: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:31:41: Attempting to download stop.txt...
+2024-12-01 18:31:41: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:31:41: Successfully downloaded stop.txt using wget.
+2024-12-01 18:31:41: Raw stop.txt content: 'No'
+2024-12-01 18:31:41: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:31:42: Attempting to download stop.txt...
+2024-12-01 18:31:42: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:31:42: Successfully downloaded stop.txt using wget.
+2024-12-01 18:31:42: Raw stop.txt content: 'No'
+2024-12-01 18:31:42: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:31:46: Attempting to download stop.txt...
+2024-12-01 18:31:46: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:31:46: Successfully downloaded stop.txt using wget.
+2024-12-01 18:31:46: Raw stop.txt content: 'No'
+2024-12-01 18:31:46: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:31:50: Attempting to download stop.txt...
+2024-12-01 18:31:50: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:31:50: Successfully downloaded stop.txt using wget.
+2024-12-01 18:31:50: Raw stop.txt content: 'No'
+2024-12-01 18:31:50: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:31:57: Attempting to download stop.txt...
+2024-12-01 18:31:57: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:31:57: Successfully downloaded stop.txt using wget.
+2024-12-01 18:31:57: Raw stop.txt content: 'No'
+2024-12-01 18:31:57: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:31:57: Starting service check process...
+2024-12-01 18:31:57: Attempting to download status.txt...
+2024-12-01 18:31:57: Successfully downloaded status.txt.
+2024-12-01 18:31:57: Raw status.txt content: 'No'
+2024-12-01 18:31:57: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:32:13: Attempting to download stop.txt...
+2024-12-01 18:32:13: Successfully downloaded stop.txt.
+2024-12-01 18:32:13: Raw stop.txt content: 'No'
+2024-12-01 18:32:13: Starting service check process...
+2024-12-01 18:32:13: Attempting to download status.txt...
+2024-12-01 18:32:13: Successfully downloaded status.txt.
+2024-12-01 18:32:13: Raw status.txt content: 'No'
+2024-12-01 18:32:13: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:32:14: Attempting to download stop.txt...
+2024-12-01 18:32:14: Successfully downloaded stop.txt.
+2024-12-01 18:32:14: Raw stop.txt content: 'No'
+2024-12-01 18:32:14: Starting service check process...
+2024-12-01 18:32:14: Attempting to download status.txt...
+2024-12-01 18:32:14: Successfully downloaded status.txt.
+2024-12-01 18:32:14: Raw status.txt content: 'No'
+2024-12-01 18:32:14: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:32:15: Attempting to download stop.txt...
+2024-12-01 18:32:15: Starting service check process...
+2024-12-01 18:32:15: Attempting to download status.txt...
+2024-12-01 18:32:15: Successfully downloaded stop.txt.
+2024-12-01 18:32:15: Raw stop.txt content: 'No'
+2024-12-01 18:32:15: Successfully downloaded status.txt.
+2024-12-01 18:32:15: Raw status.txt content: 'No'
+2024-12-01 18:32:15: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:32:15: Starting service check process...
+2024-12-01 18:32:15: Attempting to download status.txt...
+2024-12-01 18:32:15: Successfully downloaded status.txt.
+2024-12-01 18:32:15: Raw status.txt content: 'No'
+2024-12-01 18:32:15: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:32:16: Starting service check process...
+2024-12-01 18:32:16: Attempting to download status.txt...
+2024-12-01 18:32:16: Successfully downloaded status.txt.
+2024-12-01 18:32:16: Raw status.txt content: 'No'
+2024-12-01 18:32:16: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:32:16: Starting service check process...
+2024-12-01 18:32:16: Attempting to download status.txt...
+2024-12-01 18:32:16: Successfully downloaded status.txt.
+2024-12-01 18:32:16: Raw status.txt content: 'No'
+2024-12-01 18:32:16: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:32:17: Starting service check process...
+2024-12-01 18:32:17: Attempting to download status.txt...
+2024-12-01 18:32:17: Successfully downloaded status.txt.
+2024-12-01 18:32:17: Raw status.txt content: 'No'
+2024-12-01 18:32:17: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:32:17: Attempting to download stop.txt...
+2024-12-01 18:32:17: Starting service check process...
+2024-12-01 18:32:17: Attempting to download status.txt...
+2024-12-01 18:32:17: Successfully downloaded stop.txt.
+2024-12-01 18:32:17: Raw stop.txt content: 'No'
+2024-12-01 18:32:17: Successfully downloaded status.txt.
+2024-12-01 18:32:17: Raw status.txt content: 'No'
+2024-12-01 18:32:17: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:32:18: Starting service check process...
+2024-12-01 18:32:18: Attempting to download status.txt...
+2024-12-01 18:32:18: Successfully downloaded status.txt.
+2024-12-01 18:32:18: Raw status.txt content: 'No'
+2024-12-01 18:32:18: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:32:19: Starting service check process...
+2024-12-01 18:32:19: Attempting to download status.txt...
+2024-12-01 18:32:19: Successfully downloaded status.txt.
+2024-12-01 18:32:19: Raw status.txt content: 'No'
+2024-12-01 18:32:19: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:32:19: Attempting to download stop.txt...
+2024-12-01 18:32:19: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:32:19: Successfully downloaded stop.txt using wget.
+2024-12-01 18:32:19: Raw stop.txt content: 'No'
+2024-12-01 18:32:19: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:32:19: Starting service check process...
+2024-12-01 18:32:19: Attempting to download status.txt...
+2024-12-01 18:32:19: Successfully downloaded status.txt.
+2024-12-01 18:32:19: Raw status.txt content: 'No'
+2024-12-01 18:32:19: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:32:41: Attempting to download stop.txt...
+2024-12-01 18:32:41: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:32:41: Successfully downloaded stop.txt using wget.
+2024-12-01 18:32:41: Raw stop.txt content: 'No'
+2024-12-01 18:32:41: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:32:42: Attempting to download stop.txt...
+2024-12-01 18:32:42: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:32:42: Successfully downloaded stop.txt using wget.
+2024-12-01 18:32:42: Raw stop.txt content: 'No'
+2024-12-01 18:32:42: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:32:44: Starting service check process...
+2024-12-01 18:32:44: Attempting to download status.txt...
+2024-12-01 18:32:44: Successfully downloaded status.txt.
+2024-12-01 18:32:44: Raw status.txt content: 'No'
+2024-12-01 18:32:44: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:32:45: Starting service check process...
+2024-12-01 18:32:45: Attempting to download status.txt...
+2024-12-01 18:32:45: Successfully downloaded status.txt.
+2024-12-01 18:32:45: Raw status.txt content: 'No'
+2024-12-01 18:32:45: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:32:45: Starting service check process...
+2024-12-01 18:32:45: Attempting to download status.txt...
+2024-12-01 18:32:45: Successfully downloaded status.txt.
+2024-12-01 18:32:45: Raw status.txt content: 'No'
+2024-12-01 18:32:45: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:32:46: Attempting to download stop.txt...
+2024-12-01 18:32:46: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:32:46: Starting service check process...
+2024-12-01 18:32:46: Attempting to download status.txt...
+2024-12-01 18:32:46: Successfully downloaded stop.txt using wget.
+2024-12-01 18:32:46: Raw stop.txt content: 'No'
+2024-12-01 18:32:46: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:32:46: Successfully downloaded status.txt.
+2024-12-01 18:32:46: Raw status.txt content: 'No'
+2024-12-01 18:32:46: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:32:51: Attempting to download stop.txt...
+2024-12-01 18:32:51: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:32:51: Successfully downloaded stop.txt using wget.
+2024-12-01 18:32:51: Raw stop.txt content: 'No'
+2024-12-01 18:32:51: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:32:57: Attempting to download stop.txt...
+2024-12-01 18:32:57: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:32:57: Successfully downloaded stop.txt using wget.
+2024-12-01 18:32:57: Raw stop.txt content: 'No'
+2024-12-01 18:32:57: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:33:07: Starting service check process...
+2024-12-01 18:33:07: Attempting to download status.txt...
+2024-12-01 18:33:07: Successfully downloaded status.txt.
+2024-12-01 18:33:07: Raw status.txt content: 'No'
+2024-12-01 18:33:07: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:33:08: Starting service check process...
+2024-12-01 18:33:08: Attempting to download status.txt...
+2024-12-01 18:33:08: Successfully downloaded status.txt.
+2024-12-01 18:33:08: Raw status.txt content: 'No'
+2024-12-01 18:33:08: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:33:08: Starting service check process...
+2024-12-01 18:33:08: Attempting to download status.txt...
+2024-12-01 18:33:08: Successfully downloaded status.txt.
+2024-12-01 18:33:08: Raw status.txt content: 'No'
+2024-12-01 18:33:08: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:33:09: Starting service check process...
+2024-12-01 18:33:09: Attempting to download status.txt...
+2024-12-01 18:33:09: Successfully downloaded status.txt.
+2024-12-01 18:33:09: Raw status.txt content: 'No'
+2024-12-01 18:33:09: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:33:09: Starting service check process...
+2024-12-01 18:33:09: Attempting to download status.txt...
+2024-12-01 18:33:10: Successfully downloaded status.txt.
+2024-12-01 18:33:10: Raw status.txt content: 'No'
+2024-12-01 18:33:10: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:33:10: Starting service check process...
+2024-12-01 18:33:10: Attempting to download status.txt...
+2024-12-01 18:33:10: Successfully downloaded status.txt.
+2024-12-01 18:33:10: Raw status.txt content: 'No'
+2024-12-01 18:33:10: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:33:10: Starting service check process...
+2024-12-01 18:33:10: Attempting to download status.txt...
+2024-12-01 18:33:11: Successfully downloaded status.txt.
+2024-12-01 18:33:11: Raw status.txt content: 'No'
+2024-12-01 18:33:11: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:33:11: Starting service check process...
+2024-12-01 18:33:11: Attempting to download status.txt...
+2024-12-01 18:33:11: Successfully downloaded status.txt.
+2024-12-01 18:33:11: Raw status.txt content: 'No'
+2024-12-01 18:33:11: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:33:12: Starting service check process...
+2024-12-01 18:33:12: Attempting to download status.txt...
+2024-12-01 18:33:12: Successfully downloaded status.txt.
+2024-12-01 18:33:12: Raw status.txt content: 'No'
+2024-12-01 18:33:12: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:33:13: Starting service check process...
+2024-12-01 18:33:13: Attempting to download status.txt...
+2024-12-01 18:33:13: Successfully downloaded status.txt.
+2024-12-01 18:33:13: Raw status.txt content: 'No'
+2024-12-01 18:33:13: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:33:13: Attempting to download stop.txt...
+2024-12-01 18:33:13: Successfully downloaded stop.txt.
+2024-12-01 18:33:13: Raw stop.txt content: 'No'
+2024-12-01 18:33:14: Attempting to download stop.txt...
+2024-12-01 18:33:14: Successfully downloaded stop.txt.
+2024-12-01 18:33:14: Raw stop.txt content: 'No'
+2024-12-01 18:33:15: Attempting to download stop.txt...
+2024-12-01 18:33:15: Successfully downloaded stop.txt.
+2024-12-01 18:33:15: Raw stop.txt content: 'No'
+2024-12-01 18:33:18: Attempting to download stop.txt...
+2024-12-01 18:33:18: Successfully downloaded stop.txt.
+2024-12-01 18:33:18: Raw stop.txt content: 'No'
+2024-12-01 18:33:19: Attempting to download stop.txt...
+2024-12-01 18:33:19: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:33:19: Successfully downloaded stop.txt using wget.
+2024-12-01 18:33:19: Raw stop.txt content: 'No'
+2024-12-01 18:33:19: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:33:41: Attempting to download stop.txt...
+2024-12-01 18:33:41: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:33:41: Successfully downloaded stop.txt using wget.
+2024-12-01 18:33:41: Raw stop.txt content: 'No'
+2024-12-01 18:33:41: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:33:42: Attempting to download stop.txt...
+2024-12-01 18:33:42: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:33:42: Successfully downloaded stop.txt using wget.
+2024-12-01 18:33:42: Raw stop.txt content: 'No'
+2024-12-01 18:33:42: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:33:46: Attempting to download stop.txt...
+2024-12-01 18:33:46: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:33:46: Successfully downloaded stop.txt using wget.
+2024-12-01 18:33:46: Raw stop.txt content: 'No'
+2024-12-01 18:33:46: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:33:51: Attempting to download stop.txt...
+2024-12-01 18:33:51: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:33:51: Successfully downloaded stop.txt using wget.
+2024-12-01 18:33:51: Raw stop.txt content: 'No'
+2024-12-01 18:33:51: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:33:57: Attempting to download stop.txt...
+2024-12-01 18:33:57: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:33:57: Successfully downloaded stop.txt using wget.
+2024-12-01 18:33:57: Raw stop.txt content: 'No'
+2024-12-01 18:33:57: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:34:13: Attempting to download stop.txt...
+2024-12-01 18:34:13: Successfully downloaded stop.txt.
+2024-12-01 18:34:13: Raw stop.txt content: 'No'
+2024-12-01 18:34:14: Attempting to download stop.txt...
+2024-12-01 18:34:14: Successfully downloaded stop.txt.
+2024-12-01 18:34:14: Raw stop.txt content: 'No'
+2024-12-01 18:34:15: Attempting to download stop.txt...
+2024-12-01 18:34:15: Successfully downloaded stop.txt.
+2024-12-01 18:34:15: Raw stop.txt content: 'No'
+2024-12-01 18:34:18: Attempting to download stop.txt...
+2024-12-01 18:34:18: Successfully downloaded stop.txt.
+2024-12-01 18:34:18: Raw stop.txt content: 'No'
+2024-12-01 18:34:18: Starting service check process...
+2024-12-01 18:34:18: Attempting to download status.txt...
+2024-12-01 18:34:18: Successfully downloaded status.txt.
+2024-12-01 18:34:18: Raw status.txt content: 'No'
+2024-12-01 18:34:18: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:34:19: Attempting to download stop.txt...
+2024-12-01 18:34:19: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:34:19: Successfully downloaded stop.txt using wget.
+2024-12-01 18:34:19: Raw stop.txt content: 'No'
+2024-12-01 18:34:19: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:34:19: Starting service check process...
+2024-12-01 18:34:19: Attempting to download status.txt...
+2024-12-01 18:34:19: Successfully downloaded status.txt.
+2024-12-01 18:34:19: Raw status.txt content: 'No'
+2024-12-01 18:34:19: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:34:20: Starting service check process...
+2024-12-01 18:34:20: Attempting to download status.txt...
+2024-12-01 18:34:20: Successfully downloaded status.txt.
+2024-12-01 18:34:20: Raw status.txt content: 'No'
+2024-12-01 18:34:20: status.txt does NOT contain 'Yes'. Skipping tasks.
+2024-12-01 18:34:41: Attempting to download stop.txt...
+2024-12-01 18:34:42: Successfully downloaded stop.txt using wget.
+2024-12-01 18:34:42: Raw stop.txt content: 'No'
+2024-12-01 18:34:42: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:34:43: Attempting to download stop.txt...
+2024-12-01 18:34:43: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:34:43: Successfully downloaded stop.txt using wget.
+2024-12-01 18:34:43: Raw stop.txt content: 'No'
+2024-12-01 18:34:43: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:34:46: Attempting to download stop.txt...
+2024-12-01 18:34:46: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:34:46: Successfully downloaded stop.txt using wget.
+2024-12-01 18:34:46: Raw stop.txt content: 'No'
+2024-12-01 18:34:46: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:34:51: Attempting to download stop.txt...
+2024-12-01 18:34:51: Deleted existing stop.txt to ensure a fresh download.
+2024-12-01 18:34:51: Successfully downloaded stop.txt using wget.
+2024-12-01 18:34:51: Raw stop.txt content: 'No'
+2024-12-01 18:34:51: stop.txt contains 'No'. Services can continue running.
+2024-12-01 18:34:55: Starting service check process...
+2024-12-01 18:34:55: Attempting to download status.txt...
+2024-12-01 18:34:55: Successfully downloaded status.txt.
+2024-12-01 18:34:55: Raw status.txt content: 'Yes'
+2024-12-01 18:34:55: status.txt contains 'Yes'. Proceeding with tasks.
+2024-12-01 18:34:55: Staging changes for Git...
