@@ -11,7 +11,7 @@ So, if you see:
   This is the calm before the storm. The server is OFF. It's not even *thinking* about coming online. 🙅‍♂️
 
 - **`Status: Yes`**  
-  **Boom!** We’re telling the server, “Wake up, daddy’s home. Welcome home, son!” 💻🎉
+  **Boom!** We’re telling the server, “Wake up, daddy's home. Welcome home, son!” 💻🎉
 
 - **`Stop: No`**  
   Nah, we’re not telling the server to stop. It’s just hanging out, doing its thing. ✌️
@@ -49,8 +49,4 @@ But hey, it’s all part of the fun, right? This project is for the brave souls 
 
 > **Disclaimer**: If you actually try to use this in a production environment, well... good luck. It’s like handing a toddler a chainsaw and saying, "Do your thing!" 😅
 
-> **Unless you're like me...** Then it’s just another **Tuesday**. 🔥
-
----
-
-And that’s it! You’ve been warned, you’ve been initiated. 🎉
+> **Unless you're like me...** Then it’s just another **day**. 🔥
