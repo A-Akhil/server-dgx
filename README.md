@@ -24,7 +24,7 @@ So, if you see:
 Here’s the master plan (if you can call it that):
 1. **Syncs with GitHub**: Because we just have to keep things *somewhat* updated. It stashes changes, pulls the latest from the repo, and pushes it back. It's like GitHub's version of "I don't know what’s going on, but I’m doing something!" 😎
 2. **Monitors Services**: Running services? Oh, we’ll monitor them like they’re our kids. If one goes down, we resurrect it faster than you can say `sudo`. 🔄
-3. **Starts Services**: Flip the switch, and BOOM, services (code-server & cloudflared) are running... like a rocket 🚀
+3. **Starts Services**: Flip the switch, and BOOM, services are running... like a rocket 🚀
 4. **Stops Services**: If we get a “Stop” signal, we shut things down like it's the end of the world. Don’t worry, it’s all graceful. 💀
 
 ## How does this mess work?
