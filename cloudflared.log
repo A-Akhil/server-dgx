@@ -1,21 +1,19 @@
 Starting Cloudflared Tunnel...
-2024-12-05T03:51:01Z INF Thank you for trying Cloudflare Tunnel. Doing so, without a Cloudflare account, is a quick way to experiment and try it out. However, be aware that these account-less Tunnels have no uptime guarantee, are subject to the Cloudflare Online Services Terms of Use (https://www.cloudflare.com/website-terms/), and Cloudflare reserves the right to investigate your use of Tunnels for violations of such terms. If you intend to use Tunnels in production you should use a pre-created named tunnel by following: https://developers.cloudflare.com/cloudflare-one/connections/connect-apps
-2024-12-05T03:51:01Z INF Requesting new quick Tunnel on trycloudflare.com...
-2024-12-05T03:51:06Z INF +--------------------------------------------------------------------------------------------+
-2024-12-05T03:51:06Z INF |  Your quick Tunnel has been created! Visit it at (it may take some time to be reachable):  |
-2024-12-05T03:51:06Z INF |  https://narrow-beverage-spoke-rates.trycloudflare.com                                     |
-2024-12-05T03:51:06Z INF +--------------------------------------------------------------------------------------------+
-2024-12-05T03:51:06Z INF Cannot determine default configuration path. No file [config.yml config.yaml] in [~/.cloudflared ~/.cloudflare-warp ~/cloudflare-warp /etc/cloudflared /usr/local/etc/cloudflared]
-2024-12-05T03:51:06Z INF Version 2024.11.1 (Checksum 55d789465955ccfffcd61ba72807a2a4495002f7d9b7cc5eadcaa1f93c279d25)
-2024-12-05T03:51:06Z INF GOOS: linux, GOVersion: go1.22.5, GoArch: amd64
-2024-12-05T03:51:06Z INF Settings: map[ha-connections:1 protocol:quic url:http://localhost:8080]
-2024-12-05T03:51:06Z INF Autoupdate frequency is set autoupdateFreq=86400000
-2024-12-05T03:51:06Z INF Generated Connector ID: c8f683bb-c14b-4f01-abdb-528c5a3bda67
-2024-12-05T03:51:06Z INF Initial protocol quic
-2024-12-05T03:51:06Z INF ICMP proxy will use 172.16.0.32 as source for IPv4
-2024-12-05T03:51:06Z INF ICMP proxy will use fe80::e42:a1ff:fe95:0 in zone enp225s0f0 as source for IPv6
-2024-12-05T03:51:06Z INF Starting metrics server on 127.0.0.1:46669/metrics
-2024/12/05 09:21:06 failed to sufficiently increase receive buffer size (was: 208 kiB, wanted: 7168 kiB, got: 416 kiB). See https://github.com/quic-go/quic-go/wiki/UDP-Buffer-Sizes for details.
-2024-12-05T03:51:07Z INF Registered tunnel connection connIndex=0 connection=d3967491-c948-48bd-9a60-98ffdb61c73a event=0 ip=198.41.192.37 location=maa05 protocol=quic
-Services running as of Thursday 05 December 2024 09:21:10 AM IST
-Services running as of Thursday 05 December 2024 09:21:55 AM IST
+2024-12-05T03:52:04Z INF Thank you for trying Cloudflare Tunnel. Doing so, without a Cloudflare account, is a quick way to experiment and try it out. However, be aware that these account-less Tunnels have no uptime guarantee, are subject to the Cloudflare Online Services Terms of Use (https://www.cloudflare.com/website-terms/), and Cloudflare reserves the right to investigate your use of Tunnels for violations of such terms. If you intend to use Tunnels in production you should use a pre-created named tunnel by following: https://developers.cloudflare.com/cloudflare-one/connections/connect-apps
+2024-12-05T03:52:04Z INF Requesting new quick Tunnel on trycloudflare.com...
+2024-12-05T03:52:10Z INF +--------------------------------------------------------------------------------------------+
+2024-12-05T03:52:10Z INF |  Your quick Tunnel has been created! Visit it at (it may take some time to be reachable):  |
+2024-12-05T03:52:10Z INF |  https://hoped-gourmet-focal-efficiently.trycloudflare.com                                 |
+2024-12-05T03:52:10Z INF +--------------------------------------------------------------------------------------------+
+2024-12-05T03:52:10Z INF Cannot determine default configuration path. No file [config.yml config.yaml] in [~/.cloudflared ~/.cloudflare-warp ~/cloudflare-warp /etc/cloudflared /usr/local/etc/cloudflared]
+2024-12-05T03:52:10Z INF Version 2024.11.1 (Checksum 55d789465955ccfffcd61ba72807a2a4495002f7d9b7cc5eadcaa1f93c279d25)
+2024-12-05T03:52:10Z INF GOOS: linux, GOVersion: go1.22.5, GoArch: amd64
+2024-12-05T03:52:10Z INF Settings: map[ha-connections:1 protocol:quic url:http://localhost:8080]
+2024-12-05T03:52:10Z INF Autoupdate frequency is set autoupdateFreq=86400000
+2024-12-05T03:52:10Z INF Generated Connector ID: 45abdb58-eece-4bdf-b45d-dce8e60dd94d
+2024-12-05T03:52:10Z INF Initial protocol quic
+2024-12-05T03:52:10Z INF ICMP proxy will use 172.16.0.32 as source for IPv4
+2024-12-05T03:52:10Z INF ICMP proxy will use fe80::e42:a1ff:fe95:0 in zone enp225s0f0 as source for IPv6
+2024-12-05T03:52:10Z INF Starting metrics server on 127.0.0.1:38323/metrics
+2024/12/05 09:22:10 failed to sufficiently increase receive buffer size (was: 208 kiB, wanted: 7168 kiB, got: 416 kiB). See https://github.com/quic-go/quic-go/wiki/UDP-Buffer-Sizes for details.
+2024-12-05T03:52:11Z INF Registered tunnel connection connIndex=0 connection=becb102c-0721-42ea-9e07-31d42cc4da3d event=0 ip=198.41.192.57 location=maa01 protocol=quic
